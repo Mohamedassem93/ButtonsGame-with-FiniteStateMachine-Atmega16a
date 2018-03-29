@@ -61,7 +61,7 @@ Nothing specific, just make sure you implement a stable system with well-connect
 - Here comes the magic of FSM as it simply gives a one-to-one mapping between the State Transition Table and the software implementation, so when it comes to #Testing, in addition to using #Debug on #Simulator mode, you can also verify that the #Designed FSM is working after #Implemented by comparing all states from this one-to-one mapping relationship. 
 
 # Project Demo:
-"youtube link"
+https://youtu.be/WfG8HQ42PJI
 
 
 # NOTE:
